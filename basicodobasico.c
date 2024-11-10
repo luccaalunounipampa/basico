@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Olá, Bruno!\n");
+    printf("Olá, Mundo!\n");
     return 0;
 }
